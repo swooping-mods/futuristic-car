@@ -1,0 +1,25 @@
+{
+  "display_name": "Futuristic Courier",
+  "feature_dependencies": [
+    "vehicle-framework"
+  ],
+  "gameplay": true,
+  "id": "futuristic-car",
+  "kind": "native",
+  "play_help": [
+    "Buy Futuristic Courier ($1,750) from a garage. Shift+F9 boards a nearby owned hover car, then lifts off/lands.",
+    "W/S fly; A/D turn; Space/Ctrl climb; Z/C strafe; Shift boost; X brake."
+  ],
+  "vehicle_ids": [
+    23
+  ],
+  "version": "0.2.1",
+  "hotkey": "Shift+F9",
+  "requires_apis": [
+    {
+      "api": "vehicle-framework.vehicles",
+      "abi": 1,
+      "min_size": 48
+    }
+  ]
+}

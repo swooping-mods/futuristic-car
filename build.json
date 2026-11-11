@@ -1,0 +1,6 @@
+{
+  "schema": "moon-independent-build-spec/v1",
+  "id": "futuristic-car",
+  "kind": "native",
+  "entry": "mods/futuristic-car/mod.c"
+}
