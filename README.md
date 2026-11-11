@@ -6,7 +6,9 @@ Independent flying Courier using shared hover physics.
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [futuristic-car-0.2.1.msmod](content/futuristic-car-0.2.1.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [futuristic-car-0.2.1.msmod](content/futuristic-car-0.2.1.msmod), then drag and drop the `.msmod` file onto the [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) window. You can also use **Add mods…** (older loader builds: **Install mod package**).
+
+Select the mod and its required frameworks, click **Prepare files**, then **Launch**.
 
 Required mods: [vehicle-framework](https://github.com/swooping-mods/vehicle-framework).
 
