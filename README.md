@@ -1,5 +1,7 @@
 # Futuristic Courier
 
+<img src="media/icon.png" alt="Futuristic Courier icon" width="128" height="128">
+
 Independent flying Courier using shared hover physics.
 
 ## Install
